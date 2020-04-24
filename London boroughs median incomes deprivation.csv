@@ -32,10 +32,4 @@
 "E09000031,""Waltham Forest"",""27946"",""11503.5"",""1.14"",""1.49"
 "E09000032,""Wandsworth"",""37911"",""16876"",""0.77"",""1.02"
 "E09000033,""Westminster"",""40919"",""15020.5"",""0.87"",""1.14"
-"","","","","",""
-"Note: This indicator compares (as a ratio) the median income deprivation rank of the neighbourhoods in each London borough to both the England median and the London median respectively. A ratio greater than 1 indicates more deprivation relative to the comparison.","","","","",""
-"Data source: English Indices of Deprivation, Ministry of Housing, Communities and Local Government","","","","",""
-"Chart source: London's Poverty Profile 2020","","","","",""
-"London's Poverty Profile is created by charitable funder, Trust for London, and economic and public policy consultancy, WPI Economics","","","","",""
-"http://www.trustforlondon.org.uk/data","","","","",""
-"","","","","",""
+
